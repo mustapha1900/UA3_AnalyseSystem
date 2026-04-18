@@ -58,6 +58,7 @@ namespace ProjetExercice
 
             Console.WriteLine("Somme: " + somme);
             Console.WriteLine("Produit: " + produit);
+            Console.WriteLine("Hello world");
         }
     }
 }
